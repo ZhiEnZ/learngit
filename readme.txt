@@ -7,17 +7,6 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Another line.
 A little change.
-<<<<<<< HEAD
-Now change Another dev branch.
-hhhhh
-bbbbb
-dasdas
-mmmmmmmmmm
-nnnnnnnnnn
-pp000
-something to be commit.
-=======
 A test change.
 A pull-request change.
 A IDEA change.
->>>>>>> master
